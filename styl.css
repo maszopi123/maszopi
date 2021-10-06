@@ -12,3 +12,12 @@ h1{ // dla znacznika h1
     margin-left: 0; 
     margin-right: 0; 
 }
+h2{ // dla znacznika h1
+    font-size:13px; 
+    color: red; 
+    font-weight: 
+    margin-top: 0.67em; 
+    margin-bottom: 0.67em; 
+    margin-left: 0; 
+    margin-right: 0; 
+}
